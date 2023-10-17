@@ -10,6 +10,8 @@
 	let email = '';
 	let showTerms = true; // A variable to control the visibility of the h2 and Copy button
 
+	//this is a comment
+
 	let termsAndPolicy = '';
 
 	function handleSubmit() {
