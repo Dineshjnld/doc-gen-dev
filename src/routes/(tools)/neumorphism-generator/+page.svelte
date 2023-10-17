@@ -6,7 +6,7 @@
 
 	export let data;
 
-	// defaults
+	// defaults helo
 	let background = '#e0e0e0';
 	let size = 250;
 	let radius = 50;

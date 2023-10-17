@@ -13,7 +13,6 @@
 		symbols: '!@#$%^&*?'
 	};
 	// HEllo guuys whats up
-	// once agian we back
 	let length = 12;
 	let characters = ['uppercase', 'lowercase', 'numbers', 'symbols'];
 	let password: string;
