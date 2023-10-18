@@ -100,5 +100,17 @@ export let tools = {
         icon: 'files',
         link: '/terms-conditions-generator',
         description: "A Terms and Conditions Generator is an online tool that quickly creates customized legal agreements for companies. It streamlines the process of crafting comprehensive terms and conditions, promoting legal compliance and clarity with minimal effort."
+    },
+    'privacy-policy-generator': {
+        name: 'privacy policy generator',
+        icon: 'files',
+        link: '/privacy-policy-generator',
+        description: "A Privacy Policy Generator is an online tool designed to efficiently produce personalized privacy policies for websites and applications. It simplifies the task of developing detailed privacy statements, helping ensure legal compliance and transparency with minimal time and effort."
+    },
+    'cookies-policy-generator': {
+        name: 'cookies policy generator',
+        icon: 'files',
+        link: '/cookies-policy-generator',
+        description: "A Cookies Policy Generator is an online tool created to streamline the creation of customized cookies policies for websites and applications. This tool simplifies the process of crafting comprehensive cookies usage disclosures, making it easier to achieve legal compliance and transparency while saving time and effort for website owners and app developers."
     }
-};
+    };
