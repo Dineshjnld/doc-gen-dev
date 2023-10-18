@@ -3,7 +3,8 @@
 
 	export let data;
 
-	// start
+	// start ok
+	//dinesh
 	let companyName = '';
 	let websiteName = '';
 	let websiteUrl = '';
