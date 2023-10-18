@@ -8,7 +8,7 @@
 	let websiteName = '';
 	let websiteUrl = '';
 	let email = '';
-	let showTerms = true; 
+	let showTerms = true;
 
 
 	let termsAndPolicy = '';
