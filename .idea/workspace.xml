@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c6a78ab-5f20-49e7-b68b-96e592177f95" name="Changes" comment="p-p-gen">
+    <list default="true" id="4c6a78ab-5f20-49e7-b68b-96e592177f95" name="Changes" comment="gcookie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc-gen-dev" beforeDir="false" afterPath="$PROJECT_DIR$/doc-gen-dev" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/(tools)/Privacy-Policy-Generator/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/(tools)/privacy-policy-generator/+page.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+layout.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/tools.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/tools.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/(tools)/cookies-policy-generator/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/(tools)/cookies-policy-generator/+page.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +16,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Dineshjnld"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dineshjnld&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -66,7 +63,9 @@
       <option name="presentableId" value="Default" />
       <updated>1697607773479</updated>
       <workItem from="1697607776884" duration="330000" />
-      <workItem from="1697608123631" duration="2543000" />
+      <workItem from="1697608123631" duration="3222000" />
+      <workItem from="1697611828330" duration="638000" />
+      <workItem from="1697644530776" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="p-p-gen">
       <option name="closed" value="true" />
@@ -92,7 +91,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697608242680</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="privacy,cookie">
+      <option name="closed" value="true" />
+      <created>1697611765412</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697611765412</updated>
+    </task>
+    <task id="LOCAL-00005" summary="cookie">
+      <option name="closed" value="true" />
+      <created>1697612136922</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697612136922</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +116,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zdfbg" />
     <MESSAGE value="p-p-gen" />
-    <option name="LAST_COMMIT_MESSAGE" value="p-p-gen" />
+    <MESSAGE value="privacy,cookie" />
+    <MESSAGE value="cookie" />
+    <option name="LAST_COMMIT_MESSAGE" value="cookie" />
   </component>
 </project>
